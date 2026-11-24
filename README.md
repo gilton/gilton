@@ -22,6 +22,12 @@ Aqui você encontra meus estudos e projetos pessoais. Meu trabalho profissional 
 
 <p align="center">
   <a href="https://github.com/gilton-edge-ufal">
+    <img alt="Contribuições de gilton-edge-ufal no último ano" src="https://ghchart.rshah.org/2ea44f/gilton-edge-ufal" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gilton-edge-ufal">
     <img height="165" alt="Estatísticas de gilton-edge-ufal" src="https://github-readme-stats.vercel.app/api?username=gilton-edge-ufal&show_icons=true&hide_border=true&count_private=false" />
   </a>
   <a href="https://github.com/gilton-edge-ufal">
@@ -43,4 +49,4 @@ Aqui você encontra meus estudos e projetos pessoais. Meu trabalho profissional 
   </a>
 </p>
 
-> As estatísticas contam apenas atividade pública. Os cards são atualizados automaticamente a cada acesso.
+> Os cards de estatísticas contam apenas atividade pública; o gráfico de contribuições inclui também a atividade em repositórios privados (somente as quantidades). Tudo é atualizado automaticamente a cada acesso.
